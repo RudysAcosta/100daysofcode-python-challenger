@@ -9,16 +9,12 @@ def main():
         get_bidder_details()
         bidder = input("Are there any other bidders? Type 'yes' or 'no'. \n")
 
-    print(bidders)
-    print("______")
-    print(get_winner())
+    winner = get_winner()
+    print(f"The winner is {winner['name'].capitalize()} with a bid of ${winner['bid']}")
+    print()
 
 def get_winner():
-    winner = bidders[0]
-    for bidder in range(1, len(bidders)):
-        if winner['bid'] < bidder['bid']:
-            winner = bidder
-    return winner
+    return max(bidders, key=lambda bidder: bidder['bid'])
 
 def get_bidder_details():
     name = input("What is your name?:  ")
