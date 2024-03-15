@@ -15,20 +15,21 @@ def multiply(n1, n2):
 def divide(n1, n2):
     return n1 / n2
 
+operations = {
+    "+": add,
+    "-": subtract,
+    "*": multiply,
+    "/": divide
+}
+
 while True:
     number1 = float(input("What's the first number?:  "))
     while True:
         operation = input(" +, -, *, / \n Pick an operation:  ")
         number2 = float(input("What's the next number?:  "))
-
-        if operation == '+':
-            resurt = add(number1, number2)
-        elif operation == '-':
-            resurt = subtract(number1, number2)
-        elif operation == '*':
-            resurt = multiply(number1, number2)
-        else:
-            resurt = divide(number1, number2)
+        
+        function = operations[operation]
+        resurt = function(number1, number2)
 
         print(f"{number1} {operation} {number2} = {resurt}")
 
