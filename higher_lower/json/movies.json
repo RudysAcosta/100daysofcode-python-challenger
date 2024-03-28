@@ -1,0 +1,249 @@
+{
+  "peliculas": [
+    {
+      "id": 1,
+      "titulo": "Avatar",
+      "anio": 2009,
+      "director": "James Cameron",
+      "recaudacion": 2923706026
+    },
+    {
+      "id": 2,
+      "titulo": "Vengadores: Endgame",
+      "anio": 2019,
+      "director": "Anthony Russo, Joe Russo",
+      "recaudacion": 2797501328
+    },
+    {
+      "id": 3,
+      "titulo": "Avatar: The Way of Water",
+      "anio": 2022,
+      "director": "James Cameron",
+      "recaudacion": 2320250281
+    },
+    {
+      "id": 4,
+      "titulo": "Titanic",
+      "anio": 1997,
+      "director": "James Cameron",
+      "recaudacion": 2257844554
+    },
+    {
+      "id": 5,
+      "titulo": "Star Wars: The Force Awakens",
+      "anio": 2015,
+      "director": "J.J. Abrams",
+      "recaudacion": 2068223624
+    },
+    {
+      "id": 6,
+      "titulo": "Vengadores: Infinity War",
+      "anio": 2018,
+      "director": "Anthony Russo, Joe Russo",
+      "recaudacion": 2048359754
+    },
+    {
+      "id": 7,
+      "titulo": "Spider-Man: No Way Home",
+      "anio": 2021,
+      "director": "Jon Watts",
+      "recaudacion": 1921847111
+    },
+    {
+      "id": 8,
+      "titulo": "Jurassic World: Fallen Kingdom",
+      "anio": 2018,
+      "director": "J.A. Bayona",
+      "recaudacion": 1670400637
+    },
+    {
+      "id": 9,
+      "titulo": "El Rey León",
+      "anio": 2019,
+      "director": "Jon Favreau",
+      "recaudacion": 1656943394
+    },
+    {
+      "id": 10,
+      "titulo": "Los Vengadores",
+      "anio": 2012,
+      "director": "Joss Whedon",
+      "recaudacion": 1518812988
+    },
+    {
+      "id": 11,
+      "titulo": "Fast & Furious 7",
+      "anio": 2015,
+      "director": "James Wan",
+      "recaudacion": 1515047671
+    },
+    {
+      "id": 12,
+      "titulo": "La Bella y la Bestia",
+      "anio": 2017,
+      "director": "Bill Condon",
+      "recaudacion": 1263521126
+    },
+    {
+      "id": 13,
+      "titulo": "Harry Potter y las Reliquias de la Muerte - Parte 2",
+      "anio": 2011,
+      "director": "David Yates",
+      "recaudacion": 1341693157
+    },
+    {
+      "id": 14,
+      "titulo": "Frozen",
+      "anio": 2013,
+      "director": "Chris Buck, Jennifer Lee",
+      "recaudacion": 1274219009
+    },
+    {
+      "id": 15,
+      "titulo": "La Era de Hielo 4",
+      "anio": 2012,
+      "director": "Steve Martino, Mike Thurmeier",
+      "recaudacion": 1271080647
+    },
+    {
+      "id": 16,
+      "titulo": "La Era de Hielo: Choque de Mundos",
+      "anio": 2016,
+      "director": "Mike Thurmeier, Galen T. Chu",
+      "recaudacion": 1263521126
+    },
+    {
+      "id": 17,
+      "titulo": "El Rey León",
+      "anio": 1994,
+      "director": "Roger Allers, Rob Minkoff",
+      "recaudacion": 968483777
+    },
+    {
+      "id": 18,
+      "titulo": "Toy Story 4",
+      "anio": 2019,
+      "director": "Josh Cooley",
+      "recaudacion": 1073394593
+    },
+    {
+      "id": 19,
+      "titulo": "La Bella y la Bestia",
+      "anio": 1991,
+      "director": "Gary Trousdale, Kirk Wise",
+      "recaudacion": 42536679
+    },
+    {
+      "id": 20,
+      "titulo": "Jurassic World",
+      "anio": 2015,
+      "director": "Colin Trevorrow",
+      "recaudacion": 1670400637
+    },
+    {
+      "id": 21,
+      "titulo": "El Regreso del Jedi",
+      "anio": 1983,
+      "director": "Richard Marquand",
+      "recaudacion": 475106177
+    },
+    {
+      "id": 22,
+      "titulo": "Los Increíbles 2",
+      "anio": 2018,
+      "director": "Brad Bird",
+      "recaudacion": 1332539889
+    },
+    {
+      "id": 23,
+      "titulo": "El Señor de los Anillos: El Retorno del Rey",
+      "anio": 2003,
+      "director": "Peter Jackson",
+      "recaudacion": 1121692037
+    },
+    {
+      "id": 24,
+      "titulo": "Toy Story 3",
+      "anio": 2010,
+      "director": "Lee Unkrich",
+      "recaudacion": 1066969703
+    },
+    {
+      "id": 25,
+      "titulo": "Piratas del Caribe: El Cofre del Hombre Muerto",
+      "anio": 2006,
+      "director": "Gore Verbinski",
+      "recaudacion": 1066179725
+    },
+    {
+      "id": 26,
+      "titulo": "El Hobbit: Un Viaje Inesperado",
+      "anio": 2012,
+      "director": "Peter Jackson",
+      "recaudacion": 1031552587
+    },
+    {
+      "id": 27,
+      "titulo": "Avengers: Age of Ultron",
+      "anio": 2015,
+      "director": "Joss Whedon",
+      "recaudacion": 1405403694
+    },
+    {
+      "id": 28,
+      "titulo": "Black Panther",
+      "anio": 2018,
+      "director": "Ryan Coogler",
+      "recaudacion": 1346913161
+    },
+    {
+      "id": 29,
+      "titulo": "Harry Potter and the Deathly Hallows – Part 1",
+      "anio": 2010,
+      "director": "David Yates",
+      "recaudacion": 976921394
+    },
+    {
+      "id": 30,
+      "titulo": "Transformers: Dark of the Moon",
+      "anio": 2011,
+      "director": "Michael Bay",
+      "recaudacion": 1123794079
+    },
+    {
+      "id": 31,
+      "titulo": "Skyfall",
+      "anio": 2012,
+      "director": "Sam Mendes",
+      "recaudacion": 1108561013
+    },
+    {
+      "id": 32,
+      "titulo": "The Dark Knight Rises",
+      "anio": 2012,
+      "director": "Christopher Nolan",
+      "recaudacion": 1081041287
+    },
+    {
+      "id": 33,
+      "titulo": "Frozen II",
+      "anio": 2019,
+      "director": "Chris Buck, Jennifer Lee",
+      "recaudacion": 1450026933
+    },
+    {
+      "id": 34,
+      "titulo": "Jurassic World: Dominion",
+      "anio": 2022,
+      "director": "Colin Trevorrow",
+      "recaudacion": 1150000000
+    },
+    {
+      "id": 35,
+      "titulo": "Despicable Me 3",
+      "anio": 2017,
+      "director": "Pierre Coffin, Kyle Balda",
+      "recaudacion": 1034727750
+    }
+  ]
+}
